@@ -17,6 +17,8 @@ First you will need a ECG data to play on. Maybe use [this](ecg-id-database-1.0.
 
 After you decide the file you want to use, just run matlab, open the [code](ECG_processing.m), have fun with it.You might want to see the R peaks, maybe you would want to decide the QRS timing. All included in the code.
 
+You will see different figures to be printed out. This is made to be able to report different question parts given in the project.
+
 It is crazy to think about it, that our heart just works, non-stop. Actually that is not exactly true, between every P - QRS - T cycle it rests for a bit. 
 
 But yeah, magical.
